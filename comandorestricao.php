@@ -1,0 +1,4 @@
+<?php
+// Incluimos o arquivo de restrição
+require_once("restrit.php"); 
+?>
